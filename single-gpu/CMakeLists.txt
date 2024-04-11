@@ -65,16 +65,9 @@ endif()
 set(benchmarks
     ace-sycl/ace_main.cpp
     aop-sycl/aop_main.cpp
-    bh-sycl/bh_main.cpp
     srad-sycl/srad_main.cpp
     mnist-sycl/mnist_main.cpp
     metropolis-sycl/metropolis_main.cpp
-    lulesh-sycl/lulesh_main.cc
-    mpi-freq-change/mpi_app_geom_knn.cpp
-    mpi-freq-change/mpi_app_geom_vec_add.cpp
-
-    mpi-freq-change/freq_change_overhead.cpp
-
 )
 
 # Copy file
@@ -112,11 +105,7 @@ add_custom_target(copy_scripts ALL
 foreach(benchmark IN LISTS benchmarks)
     get_filename_component(target ${benchmark} NAME_WE)
 
-    if (${target} STREQUAL "lulesh_main")
-        add_executable(${target} ${benchmark} lulesh-sycl/lulesh-comm.cc lulesh-sycl/lulesh-init.cc lulesh-sycl/lulesh-util.cc lulesh-sycl/lulesh-viz.cc)
-    else()
-        add_executable(${target} ${benchmark})
-    endif()
+    add_executable(${target} ${benchmark})
 
     if(ENABLED_SYNERGY)
         target_compile_definitions(${target} PUBLIC __ENABLED_SYNERGY)
@@ -141,7 +130,7 @@ foreach(benchmark IN LISTS benchmarks)
     else()
         target_compile_definitions(${target} PUBLIC HIDING=0)
     endif()
-   
+
     if(WITH_PROCESS_FREQ_CHANGE)
         target_compile_definitions(${target} PUBLIC WITH_PROCESS_FREQ_CHANGE=1)
     else()
