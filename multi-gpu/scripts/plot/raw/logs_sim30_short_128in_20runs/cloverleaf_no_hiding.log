@@ -1,0 +1,180 @@
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2566
+hydro_time [ms]: 118405
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9938.52
+Total energy: 40356
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 10305.9
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9776
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 10335.7
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1844
+hydro_time [ms]: 91910
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 7924.53
+Total energy: 32331.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 8127.99
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 7814.65
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 8464.44
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2294
+hydro_time [ms]: 110142
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9367.15
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9495.42
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9218.18
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9952.27
+Total energy: 38033
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1897
+hydro_time [ms]: 112853
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9482.59
+Total energy: 38441.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9848.53
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9273.93
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9836.58
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1574
+hydro_time [ms]: 88691
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 7603.65
+Total energy: 31275.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 7788.21
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 7586.81
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 8296.89
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2548
+hydro_time [ms]: 103829
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 8667.49
+Total energy: 35873.4
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9068.44
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 8628.49
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9509.01
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2117
+hydro_time [ms]: 111100
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9385.73
+Total energy: 38210.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9735.84
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9160.56
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9928.49
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1981
+hydro_time [ms]: 110171
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9372.03
+Total energy: 37766.1
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9566.05
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9118.88
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9709.18
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2713
+hydro_time [ms]: 110779
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9429.13
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9471.51
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9122.68
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9973.77
+Total energy: 37997.1
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 3122
+hydro_time [ms]: 166677
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 13273.9
+Total energy: 55183.3
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 14706.7
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 13247.5
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 13955.3
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2439
+hydro_time [ms]: 97795
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 8167.7
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 8746.73
+Total energy: 33971
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 8331.41
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 8725.19
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2146
+hydro_time [ms]: 107557
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9166.23
+Total energy: 37171.8
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9323.75
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9044.86
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9637
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2530
+hydro_time [ms]: 116564
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9817.38
+Total energy: 40284.8
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 10319.3
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9724.28
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 10423.8
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1882
+hydro_time [ms]: 115159
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9396.01
+Total energy: 39112.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 10265.2
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9438.98
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 10012.4
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1982
+hydro_time [ms]: 121309
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9767.88
+Total energy: 40911.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 10635.6
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9862.59
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 10645.5
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2178
+hydro_time [ms]: 99227
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 8363.36
+Total energy: 34431.5
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 8888.56
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 8446.22
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 8733.33
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1951
+hydro_time [ms]: 95663
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 8013.48
+Total energy: 33107.9
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 8456.91
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 8048.2
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 8589.31
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 1965
+hydro_time [ms]: 91895
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 7769.4
+Total energy: 32168.2
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 8168.98
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 7889.67
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 8340.11
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2416
+hydro_time [ms]: 105164
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9016.72
+Total energy: 36376.9
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9167.76
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 8744.56
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9447.9
+nohup: ignoring input and appending output to 'nohup.out'
+PER_PHASE WITH MPI FREQ_CHANGE NO_HIDING
+initialise_time [ms]: 2076
+hydro_time [ms]: 110604
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9339.46
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9539.17
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9136.2
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 9959.61
+Total energy: 37974.4

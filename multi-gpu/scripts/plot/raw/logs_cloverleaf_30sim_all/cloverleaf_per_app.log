@@ -1,0 +1,180 @@
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 4081
+hydro_time [ms]: 207007
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 14313.6
+Total energy: 59996.5
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 15149.3
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 14567.7
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 15965.9
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 2657
+hydro_time [ms]: 168960
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 11680.5
+Total energy: 48882.3
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 12358
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 11821.2
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 13022.6
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3509
+hydro_time [ms]: 157272
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 10957.6
+Total energy: 45837.8
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 11592.5
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 11074.9
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 12212.8
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3288
+hydro_time [ms]: 202098
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 13932.1
+Total energy: 58265.3
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 14738.5
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 14057.5
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 15537.2
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 2654
+hydro_time [ms]: 166269
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 11500.5
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 12165.9
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 12820
+Total energy: 48118.5
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 11632.1
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3040
+hydro_time [ms]: 214721
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 14754.2
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 15607.1
+Total energy: 61728.5
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 14910.1
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 16457.1
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 2836
+hydro_time [ms]: 131846
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 9218.26
+Total energy: 38647.1
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 9749.57
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 9411.42
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 10267.9
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3602
+hydro_time [ms]: 165553
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 11515.9
+Total energy: 48286.3
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 12180
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 11754.7
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 12835.7
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 2842
+hydro_time [ms]: 176992
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 12226.3
+Total energy: 51259.9
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 12929.3
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 12472
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 13632.4
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3832
+hydro_time [ms]: 182032
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 12629.4
+Total energy: 52964.8
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 13355.1
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 12898.2
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 14082.1
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3512
+hydro_time [ms]: 164674
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 11452.3
+Total energy: 48035.6
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 12112.3
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 11706.4
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 12764.7
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3413
+hydro_time [ms]: 186846
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 12921.7
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 13670.2
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 13214.8
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 14409.5
+Total energy: 54216.2
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3803
+hydro_time [ms]: 209271
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 14442.7
+Total energy: 60601.2
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 15279.5
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 14770.6
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 16108.4
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3239
+hydro_time [ms]: 206364
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 14211.4
+Total energy: 59616.5
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 15034.6
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 14520.6
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 15849.9
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 4137
+hydro_time [ms]: 228730
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 15760.9
+Total energy: 66131.2
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 16674.1
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 16114.1
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 17582
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3226
+hydro_time [ms]: 208043
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 14321.8
+Total energy: 60046.8
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 15148.9
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 14603.7
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 15972.4
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 4426
+hydro_time [ms]: 155393
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 10892.5
+Total energy: 45656.4
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 11520.4
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 11103.7
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 12139.8
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3201
+hydro_time [ms]: 239744
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 16431.3
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 17383.4
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 16751.4
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 18331.1
+Total energy: 68897.2
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 3076
+hydro_time [ms]: 178760
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 12359.9
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 13078.5
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 12616.5
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 13781
+Total energy: 51835.9
+nohup: ignoring input and appending output to 'nohup.out'
+CLOVER_LEAF PER_APP
+initialise_time [ms]: 2908
+hydro_time [ms]: 180047
+Node name: phase-aware, rank: 0, local_rank: 0, device_energy_consumption [J]: 12435.5
+Total energy: 52145.4
+Node name: phase-aware, rank: 1, local_rank: 1, device_energy_consumption [J]: 13156.7
+Node name: phase-aware, rank: 2, local_rank: 2, device_energy_consumption [J]: 12686.9
+Node name: phase-aware, rank: 3, local_rank: 3, device_energy_consumption [J]: 13866.3

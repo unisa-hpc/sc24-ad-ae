@@ -1,0 +1,2460 @@
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 38128
+Total time mpi[s]: 38.129
+Total energy: 11163.4
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 25103
+Total time mpi[s]: 25.104
+Total energy: 7467.74
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 51633
+Total time mpi[s]: 51.6338
+Total energy: 14970.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 58921
+Total time mpi[s]: 58.9217
+Total energy: 17320.8
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 23344
+Total time mpi[s]: 23.3444
+Total energy: 6746.94
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 18430
+Total time mpi[s]: 18.4305
+Total energy: 5416.53
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 56872
+Total time mpi[s]: 56.8728
+Total energy: 16141.5
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 48406
+Total time mpi[s]: 48.4065
+Total energy: 14174.6
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 19753
+Total time mpi[s]: 19.7539
+Total energy: 5819.83
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 46701
+Total time mpi[s]: 46.7018
+Total energy: 13448.4
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 78228
+Total time mpi[s]: 78.2291
+Total energy: 22464.2
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 44101
+Total time mpi[s]: 44.1012
+Total energy: 12601.9
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 22461
+Total time mpi[s]: 22.4613
+Total energy: 6621.65
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 49947
+Total time mpi[s]: 49.9477
+Total energy: 14441.4
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 116849
+Total time mpi[s]: 116.85
+Total energy: 33715.7
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 82757
+Total time mpi[s]: 82.7572
+Total energy: 23851.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 26506
+Total time mpi[s]: 26.5066
+Total energy: 7644.56
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 34937
+Total time mpi[s]: 34.9374
+Total energy: 10062.4
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 27149
+Total time mpi[s]: 27.1499
+Total energy: 7790.44
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 51682
+Total time mpi[s]: 51.6827
+Total energy: 14937.5
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 88688
+Total time mpi[s]: 88.6884
+Total energy: 25241.8
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 86243
+Total time mpi[s]: 86.2438
+Total energy: 23993.9
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 68159
+Total time mpi[s]: 68.1595
+Total energy: 19598.3
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 32608
+Total time mpi[s]: 32.6081
+Total energy: 9500.38
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 54841
+Total time mpi[s]: 54.8414
+Total energy: 15290.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 45908
+Total time mpi[s]: 45.9088
+Total energy: 13225.9
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 13072
+Total time mpi[s]: 13.0724
+Total energy: 3789.4
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 31089
+Total time mpi[s]: 31.0899
+Total energy: 9116.72
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 61802
+Total time mpi[s]: 61.8022
+Total energy: 17574.9
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 57953
+Total time mpi[s]: 57.9536
+Total energy: 16433.9
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 25359
+Total time mpi[s]: 25.3598
+Total energy: 7377.87
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 40122
+Total time mpi[s]: 40.1229
+Total energy: 12033.2
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 33159
+Total time mpi[s]: 33.1597
+Total energy: 9737.11
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 53694
+Total time mpi[s]: 53.6945
+Total energy: 15401
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 32502
+Total time mpi[s]: 32.5024
+Total energy: 9578.64
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 30418
+Total time mpi[s]: 30.4191
+Total energy: 8731.29
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 70652
+Total time mpi[s]: 70.6527
+Total energy: 19562.3
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 25618
+Total time mpi[s]: 25.6187
+Total energy: 7336.03
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 66454
+Total time mpi[s]: 66.4547
+Total energy: 19218.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 51514
+Total time mpi[s]: 51.5146
+Total energy: 14459.4
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 22408
+Total time mpi[s]: 22.4087
+Total energy: 6461.11
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 33841
+Total time mpi[s]: 33.8412
+Total energy: 9693.46
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 42928
+Total time mpi[s]: 42.9289
+Total energy: 12479.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 30242
+Total time mpi[s]: 30.2431
+Total energy: 8728.86
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 31951
+Total time mpi[s]: 31.9515
+Total energy: 9356.83
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 29439
+Total time mpi[s]: 29.4392
+Total energy: 8546.8
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.000272870.00027287
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 31677
+Total time mpi[s]: 31.6777
+Total energy: 9249.31
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 125565
+Total time mpi[s]: 125.566
+Total energy: 36013.5
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 35995
+Total time mpi[s]: 35.9954
+Total energy: 10435.8
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 39918
+Total time mpi[s]: 39.9191
+Total energy: 11529.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 59977
+Total time mpi[s]: 59.9776
+Total energy: 17037.7
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 38152
+Total time mpi[s]: 38.1522
+Total energy: 10916
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 121699
+Total time mpi[s]: 121.7
+Total energy: 35420.7
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 37869
+Total time mpi[s]: 37.8694
+Total energy: 10900.8
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 28204
+Total time mpi[s]: 28.2047
+Total energy: 8099.82
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 42731
+Total time mpi[s]: 42.7313
+Total energy: 12402.3
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       Pool Memory High Water Mark:       292992
+
+Pool Memory High Water Efficiency: 0.00027287
+292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 31606
+Total time mpi[s]: 31.6062
+Total energy: 9310.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 31292
+Total time mpi[s]: 31.2927
+Total energy: 9104.8
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 20615
+Total time mpi[s]: 20.6153
+Total energy: 6085.1
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Efficiency: 0.00027287
+
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+PER_PHASE + HIDING
+Running on Intel(R) Data Center GPU Max 1100
+nx_glob, nz_glob: 128 64
+dx,dz: 156.250000 156.250000
+dt: 0.520833
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Running on Intel(R) Data Center GPU Max 1100
+Elapsed Time: 0.000000 / 10.000000
+Elapsed Time: 0.520833 / 10.000000
+Elapsed Time: 1.041667 / 10.000000
+Elapsed Time: 1.562500 / 10.000000
+Elapsed Time: 2.083333 / 10.000000
+Elapsed Time: 2.604167 / 10.000000
+Elapsed Time: 3.125000 / 10.000000
+Elapsed Time: 3.645833 / 10.000000
+Elapsed Time: 4.166667 / 10.000000
+Elapsed Time: 4.687500 / 10.000000
+Elapsed Time: 5.208333 / 10.000000
+Elapsed Time: 5.729167 / 10.000000
+Elapsed Time: 6.250000 / 10.000000
+Elapsed Time: 6.770833 / 10.000000
+Elapsed Time: 7.291667 / 10.000000
+Elapsed Time: 7.812500 / 10.000000
+Elapsed Time: 8.333333 / 10.000000
+Elapsed Time: 8.854167 / 10.000000
+Elapsed Time: 9.375000 / 10.000000
+Elapsed Time: 9.895833 / 10.000000
+Total time chrono[ms]: 24275
+Total time mpi[s]: 24.2752
+Total energy: 7175.15
+d_mass: 0.000000e+00
+d_te:   -1.873120e-05
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287Pool Memory High Water Mark:       292992
+Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: Pool Memory High Water Mark:       292992
+Pool Memory High Water Efficiency: 0.00027287
+Pool Memory High Water Efficiency: 0.00027287
+0.00027287
+
