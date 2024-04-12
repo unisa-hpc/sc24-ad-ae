@@ -174,7 +174,7 @@ for core_freq in "${sampled_freq[@]}"; do
     ./ace_main $num_runs > $LOG_DIR/ace/ace_${core_freq}.csv 2> $LOG_DIR/ace/ace_${core_freq}.log
   fi
 
-  # AOP TODO: fix energy consumption
+  # AOP 
   if [[ $curr_benches == *"aop"* ]]; then
     mkdir -p $LOG_DIR/aop/
     echo "[*] Running AOP"
@@ -208,7 +208,7 @@ for core_freq in "${sampled_freq[@]}"; do
     ./metropolis_main -l $L $R -t $TR $dT -h $h -a $atrials $ains $apts $ams -z $seed > $LOG_DIR/metropolis/metropolis_${core_freq}.csv 2> $LOG_DIR/metropolis/metropolis_${core_freq}.log
   fi
 
-  # Mnist TODO: fix energy consumption
+  # Mnist 
   if [[ $curr_benches == *"mnist"* ]]; then
     mkdir -p $LOG_DIR/mnist
     echo "[*] Running MNIST"
