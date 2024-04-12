@@ -37,37 +37,37 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsycl")
 if(DPCPP_WITH_CUDA_BACKEND)
     set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsycl-targets=nvptx64-nvidia-cuda")
 
-    set(CUDA_ARCH "" CACHE STRING "CUDA device architecture e.g. sm_70")
+    set(ARCH "" CACHE STRING "CUDA device architecture e.g. sm_70")
 
-    if(NOT CUDA_ARCH STREQUAL "")
-        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Xsycl-target-backend --cuda-gpu-arch=${CUDA_ARCH}")
+    if(NOT ARCH STREQUAL "")
+        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Xsycl-target-backend --cuda-gpu-arch=${ARCH}")
     endif()
 endif()
 
 if(DPCPP_WITH_ROCM_BACKEND)
-    set(ROCM_ARCH "" CACHE STRING "ROCm device architecture e.g. gfx908")
+    set(ARCH "" CACHE STRING "ROCm device architecture e.g. gfx908")
 
-    if(NOT ROCM_ARCH STREQUAL "")
-        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsycl-targets=amd_gpu_${ROCM_ARCH}")
+    if(NOT ARCH STREQUAL "")
+        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsycl-targets=amd_gpu_${ARCH}")
     endif()
 endif()
 
 if(DPCPP_WITH_LZ_BACKEND)
     set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsycl-targets=spir64_gen")
 
-    set(LZ_ARCH "" CACHE STRING "Level Zero device architecture e.g. acm-g10")
+    set(ARCH "" CACHE STRING "Level Zero device architecture e.g. acm-g10")
 
-    if(NOT LZ_ARCH STREQUAL "")
-        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Xsycl-target-backend \"-device ${LZ_ARCH}\"")
+    if(NOT ARCH STREQUAL "")
+        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Xsycl-target-backend \"-device ${ARCH}\"")
     endif()
 endif()
 
 set(benchmarks
-    ace-sycl/ace_main.cpp
-    aop-sycl/aop_main.cpp
-    srad-sycl/srad_main.cpp
-    mnist-sycl/mnist_main.cpp
-    metropolis-sycl/metropolis_main.cpp
+    src/ace-sycl/ace_main.cpp
+    src/aop-sycl/aop_main.cpp
+    src/srad-sycl/srad_main.cpp
+    src/mnist-sycl/mnist_main.cpp
+    src/metropolis-sycl/metropolis_main.cpp
 )
 
 # Copy file
@@ -78,23 +78,23 @@ add_custom_command(
 )
 add_custom_command(
   OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/train-images.idx3-ubyte
-  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/mnist-sycl/train-images.idx3-ubyte ${CMAKE_CURRENT_BINARY_DIR}/train-images.idx3-ubyte
-  DEPENDS ${CMAKE_SOURCE_DIR}/mnist-sycl/train-images.idx3-ubyte
+  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/src/mnist-sycl/train-images.idx3-ubyte ${CMAKE_CURRENT_BINARY_DIR}/train-images.idx3-ubyte
+  DEPENDS ${CMAKE_SOURCE_DIR}/src/mnist-sycl/train-images.idx3-ubyte
 )
 add_custom_command(
   OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/train-labels.idx1-ubyte
-  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/mnist-sycl/train-labels.idx1-ubyte ${CMAKE_CURRENT_BINARY_DIR}/train-labels.idx1-ubyte
-  DEPENDS ${CMAKE_SOURCE_DIR}/mnist-sycl/train-labels.idx1-ubyte
+  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/src/mnist-sycl/train-labels.idx1-ubyte ${CMAKE_CURRENT_BINARY_DIR}/train-labels.idx1-ubyte
+  DEPENDS ${CMAKE_SOURCE_DIR}/src/mnist-sycl/train-labels.idx1-ubyte
 )
 add_custom_command(
   OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/t10k-images.idx3-ubyte
-  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/mnist-sycl/t10k-images.idx3-ubyte ${CMAKE_CURRENT_BINARY_DIR}/t10k-images.idx3-ubyte
-  DEPENDS ${CMAKE_SOURCE_DIR}/mnist-sycl/t10k-images.idx3-ubyte
+  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/src/mnist-sycl/t10k-images.idx3-ubyte ${CMAKE_CURRENT_BINARY_DIR}/t10k-images.idx3-ubyte
+  DEPENDS ${CMAKE_SOURCE_DIR}/src/mnist-sycl/t10k-images.idx3-ubyte
 )
 add_custom_command(
   OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/t10k-labels.idx1-ubyte
-  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/mnist-sycl/t10k-labels.idx1-ubyte ${CMAKE_CURRENT_BINARY_DIR}/t10k-labels.idx1-ubyte
-  DEPENDS ${CMAKE_SOURCE_DIR}/mnist-sycl/t10k-labels.idx1-ubyte
+  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_SOURCE_DIR}/src/mnist-sycl/t10k-labels.idx1-ubyte ${CMAKE_CURRENT_BINARY_DIR}/t10k-labels.idx1-ubyte
+  DEPENDS ${CMAKE_SOURCE_DIR}/src/mnist-sycl/t10k-labels.idx1-ubyte
 )
 
 add_custom_target(copy_scripts ALL
