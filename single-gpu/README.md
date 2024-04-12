@@ -8,12 +8,13 @@ This artifact is provided with all the scripts and tools needed for executing th
 The current flow describes how to profile the application.
 
 1. Run the `build_profiling.sh` (TODO) to build the binaries. The script takes as input two parameters:
-    - `--plat`: [`rocm`, `lz`, `cuda`]
-    - `--arch`: the gpu architecture;
+    - `--plat=<rocm,lz,cuda>`;
+    - `--arch=<gpu_arch>`: the gpu architecture;
 
 2. Run the `run_profiling.sh` script. The script takes as input  the following parameters:
-    - `--arch`: [`rocm`, `lz`, `cuda`]
-    - `--sampling`: an integers that indicates how many frequencies to skip.
+    - `--plat=<rocm,lz,cuda>`;
+    - `--sampling=<x>`: an integers that indicates how many frequencies to skip;
+    - `--benchmaks=ace,aop,mnist,srad,metropolis` the list of application to execute;
 
     Alternatively, you can execute the `find-freq.py` (TODO).
 

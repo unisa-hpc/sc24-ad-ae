@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ARCHS=("cuda" "rocm" "lz" "geopm")
+ARCHS=("cuda" "rocm" "lz")
 arch=""
 benches=("ace" "aop" "bh" "metropolis" "mnist" "srad")
 curr_benches="ace,aop,bh,metropolis,mnist,srad"
@@ -77,8 +77,8 @@ function get_core_frequencies {
 # Parse command line arguments
 while [[ $# -gt 0 ]]; do
   case "$1" in
-    --arch)
-      arch=$2
+    --plat=*)
+      arch="${1#*=}"
       shift
       shift
       ;;
