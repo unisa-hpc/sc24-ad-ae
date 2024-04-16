@@ -1,0 +1,3 @@
+[submodule "single-gpu/SYnergy"]
+	path = single-gpu/SYnergy
+	url = https://github.com/unisa-hpc/SYnergy.git
